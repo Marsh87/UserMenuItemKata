@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAccountPreferenceKata", "UserAccountPreferenceKata\UserAccountPreferenceKata.csproj", "{B9125A17-CC96-4FC4-B80B-1F12EDC8E4E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAccountPreferenceKata.Tests", "UserAccountPreferenceKata.Tests\UserAccountPreferenceKata.Tests.csproj", "{8A43FF1F-26BC-49AA-B37F-0F8280AF7D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9125A17-CC96-4FC4-B80B-1F12EDC8E4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9125A17-CC96-4FC4-B80B-1F12EDC8E4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9125A17-CC96-4FC4-B80B-1F12EDC8E4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9125A17-CC96-4FC4-B80B-1F12EDC8E4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A43FF1F-26BC-49AA-B37F-0F8280AF7D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A43FF1F-26BC-49AA-B37F-0F8280AF7D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A43FF1F-26BC-49AA-B37F-0F8280AF7D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A43FF1F-26BC-49AA-B37F-0F8280AF7D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
